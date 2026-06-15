@@ -10,4 +10,4 @@ To start with, as soon as I downloaded the dataset, it needed some processing be
 
 Then it was time for the Data Cleaning. This dataset was not something really hard to deal with. It includes 8 columns. Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location and Transaction Date. Personally, I do not like having IDs like this TXN_1961373. I prefer only numbers so I created a new column with the name New_ID and with the function RIGHT I chose to keep only the last 7 digits. 
 
-Next, I noticed that every other column contains blanks and data called UNKNOWN and ERROR. In order to delete them I chose Filter from the Data tab, unselect the correct data and select only the ones I want to delete. Then, I chose every row and delete it. 
+Next, I noticed that every other column contains blanks and data called UNKNOWN and ERROR. In order to delete them I chose Filter from the Data tab, unselect the correct data and select only the one I want to delete. Then, I chose every row and delete it. 
