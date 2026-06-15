@@ -7,4 +7,4 @@ To start with, as soon as I downloaded the dataset, it needed some processing be
 * I selected the first column -> Data -> Text to Columns -> Delimited by comma
 * CTRL A -> ALT -> Type HOI
 * Bold the column headers
-Then it was time for the Data Cleaning. This dataset was not something really hard to deal with. It includes 8 columns. Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location and Transaction Date. Personally, I do not like having 
+Then it was time for the Data Cleaning. This dataset was not something really hard to deal with. It includes 8 columns. Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location and Transaction Date. Personally, I do not like having IDs like this TXN_1961373. I prefer only numbers so I created a new column with the name New_ID and with the function RIGHT I chose to keep only the last 7 digits
