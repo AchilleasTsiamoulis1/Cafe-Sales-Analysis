@@ -7,5 +7,4 @@ To start with, as soon as I downloaded the dataset, it needed some processing be
 * I selected the first column -> Data -> Text to Columns -> Delimited by comma
 * CTRL A -> ALT -> Type HOI
 * Bold the column headers
-Then it was time for the Data Cleaning. This dataset was not something really hard to deal with. It includes 8 columns. Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location and Transaction Date.
-Personally, I do not like having 
+Then it was time for the Data Cleaning. This dataset was not something really hard to deal with. It includes 8 columns. Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location and Transaction Date. Personally, I do not like having 
