@@ -1,7 +1,8 @@
 # Cafe-Sales-Analysis
 * In this **Data Analysis** session I chose a dirty dataset from **Kaggle** that was based on **Cafe Sales**, I cleaned the data inside the **Excel** file and then used **Tableau** to visualize the results. 
 * The original dataset was downloaded from https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
-* I also have provided both the original dateset and the one I have modified.
+* I have also provided both the original dateset and the one I have modified.
+* If there is an issue on the Tableau file after downloading it, here is the link for the Tableau Public to check it out https://public.tableau.com/views/CafeSales_17815405813140/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 # Data Preparation & Data Cleaning 
 To start with, as soon as I downloaded the dataset, it needed some processing before the columns and their data became visible.
 
