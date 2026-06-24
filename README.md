@@ -29,9 +29,6 @@ Finally, all of the above sheets have been arranged uniformly in an interactive 
 
 
 The first sheet is a stacked bar chart.
-
 The second sheet is a side-by-side bar chart.
-
-The third sheet is a line chart. 
-
+The third sheet is a line chart.
 The fourth sheet is a pie chart.
