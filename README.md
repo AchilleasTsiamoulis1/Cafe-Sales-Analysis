@@ -15,7 +15,7 @@ Then it was time for the **Data Cleaning**. This dataset was not something reall
 Next, I noticed that every other column contains **blanks** and data called **UNKNOWN** and **ERROR**. In order to delete them I chose **Filter** from the **Data tab**, unselect the correct data and select only the one I want to delete. Then, I chose every row and delete it. This is it, the dataset is ready to be used for analysis. There were no duplicates, no issues with the dates, no columns that needed to be deleted, no questions with words that contained both uppercase and lowercase letters so you had to normalize them.
 
 # Tableau Analysis
-In **Tableau**, I created **4 different sheets**, which I then consolidated into a single **dashboard**, exactly as shown.
+In **Tableau**, I created **4 different sheets**, which I then consolidated into a single **dashboard**, exactly as shown. In all diagrams, I prefer to have the figures arranged in ascending order. I also added colors and labels wherever possible.
 
 * The **first** sheet (top left) shows the products customers purchase at coffee shops, broken down by quantity. Salad and juice are the top-selling products. This sheet is a **stacked bar chart**.
 
