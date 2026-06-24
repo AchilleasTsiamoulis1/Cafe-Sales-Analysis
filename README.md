@@ -27,9 +27,6 @@ The third sheet (top right) is a chart divided into three sections based on cust
 The fourth and final sheet (bottom right) shows the price of the product people buy most often—that is, the product costing 3 units has been purchased most frequently.
 Finally, all of the above sheets have been arranged uniformly in an interactive dashboard where the other charts change depending on what the user clicks.
 
-
-
-
 The first sheet is a stacked bar chart.
 
 The second sheet is a side-by-side bar chart.
