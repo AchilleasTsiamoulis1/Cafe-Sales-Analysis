@@ -16,7 +16,8 @@ Next, I noticed that every other column contains **blanks** and data called **UN
 
 # Tableau Analysis
 In Tableau, I created 4 different sheets, which I then consolidated into a single dashboard, exactly as shown.
-<br/> The first sheet (top left) shows the products customers purchase at coffee shops, broken down by quantity. Salad and juice are the top-selling products.
+
+The first sheet (top left) shows the products customers purchase at coffee shops, broken down by quantity. Salad and juice are the top-selling products.
 
 The second sheet (bottom left) presents the two different options available to customers—takeout or dine-in—in combination with the quantity of the product. 
 Essentially, this is an extension of the previous sheet. In-store, the salad and juice remain the top sellers, while for takeout, cookies and coffee lead the way—which makes sense objectively.
