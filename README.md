@@ -17,20 +17,12 @@ Next, I noticed that every other column contains **blanks** and data called **UN
 # Tableau Analysis
 In Tableau, I created 4 different sheets, which I then consolidated into a single dashboard, exactly as shown.
 
-* The first sheet (top left) shows the products customers purchase at coffee shops, broken down by quantity. Salad and juice are the top-selling products.
+* The first sheet (top left) shows the products customers purchase at coffee shops, broken down by quantity. Salad and juice are the top-selling products. This sheet is a stacked bar chart.
 
 * The second sheet (bottom left) presents the two different options available to customers—takeout or dine-in—in combination with the quantity of the product. 
-Essentially, this is an extension of the previous sheet. In-store, the salad and juice remain the top sellers, while for takeout, cookies and coffee lead the way—which makes sense objectively.
+Essentially, this is an extension of the previous sheet. In-store, the salad and juice remain the top sellers, while for takeout, cookies and coffee lead the way—which makes sense objectively. This sheet is a side-by-side bar chart.
 
-* The third sheet (top right) is a chart divided into three sections based on customers’ payment methods (cash, credit card, digital wallet), showing in ascending order the products they buy most frequently. Salad remains at the top for cash and credit card payments, but juice takes first place for digital wallet payments.
+* The third sheet (top right) is a chart divided into three sections based on customers’ payment methods (cash, credit card, digital wallet), showing in ascending order the products they buy most frequently. Salad remains at the top for cash and credit card payments, but juice takes first place for digital wallet payments. This sheet is a line chart.
 
 * The fourth and final sheet (bottom right) shows the price of the product people buy most often—that is, the product costing 3 units has been purchased most frequently.
-Finally, all of the above sheets have been arranged uniformly in an interactive dashboard where the other charts change depending on what the user clicks.
-
-The first sheet is a stacked bar chart.
-
-The second sheet is a side-by-side bar chart.
-
-The third sheet is a line chart.
-
-The fourth sheet is a pie chart.
+Finally, all of the above sheets have been arranged uniformly in an interactive dashboard where the other charts change depending on what the user clicks. This sheet is a pie chart.
